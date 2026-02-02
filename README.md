@@ -25,4 +25,5 @@ relatório corporativo simulado (SAP).
 - Power Query 
 
 ## 📊 Resultado
-Tabela final conten
+Tabela final contendo métricas como quantidade em estoque, preço unitário e valor total de vendas.
+
